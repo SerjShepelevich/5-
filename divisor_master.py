@@ -54,7 +54,8 @@ def largest_div(n):
 
 
 
-n = 609840
+n = 25
+
 print("Число является простым " , IsPrime(n))
 print("список всех делителей числа: ", list_dividers(n))
 print("самый большой простой делитель числа: ", largest_prime_div(n))
